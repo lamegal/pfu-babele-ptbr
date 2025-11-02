@@ -1,62 +1,38 @@
-# Projeto Fabula Ultima - Tradução do Compêndio em Português Brasileiro
+# Here is the working module for your translation!
 
-![Fabula Ultima Mod](https://need.games/wp-content/uploads/2024/06/FU-MOD-bgW-300x121.png)
+Please take time todo some adjustments:
 
-## Prefácio
-Há algum tempo, venho traduzindo os termos e itens deste sistema maravilhoso que conhecemos como Fabula Ultima dentro do Project FU [Projeto FU](https://github.com/League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima) usando o [Babele](https://gitlab.com/riccisi/foundryvtt-babele).
-No entanto, a Jambo Editora está em processo de publicação dos livros em nosso idioma e devido a isso, decidi esperar que tais mudanças fossem finais para que eu pudesse disponibilizar o compêndio traduzido dentro do Foundry de acordo com o Item 3 da Licença Aberta de Fabula Ultima.
-Seguindo a licença usada pelos desenvolvedores do sistema, também estou executando este módulo sob a Licença MIT.
+* Change the ID of the module (currently `projectfu-en`, example: `projectfu-pt_BR` or `projectfu-fr`)
+    * In the `module.json` file: `"id": "projectfu-xx"` Change the xx with your language code!
+    * In the `register.js` file: `const MODULE_ID = 'projectfu-xx';` Change the xx with your language code!
+    * In the `compendium` folder, rename `en` to your language code!
+    * The name of this directory
+* Customize the name and the description of the module and your name in the `module.json`
 
-## Instalação Manual
+Feel free to make any changes you want.
 
-Para instalar o módulo no Foundry, alguns passos simples são necessários:
+Once all is done, all you have to do now is to move it into your Foundry `modules/` directory and activate it in a
+world.
 
-1. Abra a página de configuração da sua instância do _FoundryVTT_.
+## How to Format Source in Compendium
 
-2. Acesse a aba _Módulos Adicionais_.
+When providing source, it’s best to follow the naming scheme PFU uses:
 
-3. Clique em _Instalar Módulo_.
+**[PDF Code][Page Number]**
 
-4. Adicione este URL ao _URL do Manifesto_: `https://github.com/rustywrecks/pfu-babele-ptbr/releases/latest/download/module.json`
+The following acronyms and their book associations:
 
-5. Clique em _Instalar_.
+- FUCR - Fabula Ultima Core Rulebook
+- FUHF - Fabula Ultima High Fantasy
+- FUTF - Fabula Ultima Techno Fantasy
+- FUNF - Fabula Ultima Natural Fantasy
+- FUAC - Fabula Ultima Ace of Cards
+- FUEF - Fabula Ultima Edgar Forging Rules
+- FUNM - Fabula Ultima Necromancer
 
-> [!WARNING]
-> Para que este módulo funcione, o módulo [Babele] (https://gitlab.com/riccisi/foundryvtt-babele) deve estar instalado.
+## Important Notice
 
-## Compêndios Traduzidos
-Estes são os compêndios que traduzi até o momento. Lembrando que esse é um trabalho árduo e que faltam algumas coisas, que irei atualizar conforme meu tempo permitir. É possível que alguns termos ainda estejam com localizações de antes da tradução oficial da Jambo Editora. Estes também serão alterados em seu tempo.
+With the exception of English and Italian compendium localization (which is covered under the [Fabula Ultima Third-Party Tabletop License 1.0](https://need.games/wp-content/uploads/2024/06/Fabula-Ultima-Third-Party-Tabletop-License-1.0.pdf)), 
+please do not share your localization module on official channels (e.g., Reddit, Discord, including Rooster Games and Need Games), as well as the PFU developer Discord. Only until your language's publisher releases a third party license of their own, will you be permitted to share your localization.
 
-**Criação de Personagem**
-
-- Classes
-
-- Poderes
-
-- Feitiços
-
-- Poderes Heroicos
--   Nesse caso, quase tudo ainda não está traduzido. Estou realizando essa parte como prioridade.
-
-**Equipamento**
-
-- Equipamento Básico
-
-- Consumíveis
-
-- Módulos de Veículo
-
-**Ferramentas do Mestre**
-
-- Mestre de Jogo
-- Tabelas de Rolagem (Nem tudo está traduzido ainda).
-
-**Efeitos**
-- Efeitos de Ator
-- Condições
-- Efeitos de Equipamento
-- Qualidades
-> [!NOTE]
-> Não pretendo traduzir os efeitos (Apenas seus títulos), pois a maioria é usada diretamente pelo sistema.
-
-Atualmente também será feita uma tradução das Tecnoesferas (Hoplo e Mnemo).
+I cannot be held responsible for anyone who disregards these guidelines.

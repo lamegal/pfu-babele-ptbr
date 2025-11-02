@@ -1,0 +1,27 @@
+{
+  "id": "pfu-babele-ptbr",
+  "title": "[pt-BR] localization for ProjectFU",
+  "description": "[pt-BR] localization for ProjectFU's System Compendium.",
+  "authors": [
+    {
+      "name": "Lamegal"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
