@@ -3,7 +3,8 @@
 
 ## Prefácio
 Há algum tempo, tenho me dedicado a traduzir os termos e itens dos diversos compêndios do nosso maravilhoso sistema Fabula Ultima dentro do Project FU para FoundryVTT. Este módulo tem como objetivo traduzir os títulos, termos, descrições e demais características dos compêndios disponíveis no sistema de acordo com a Licença Aberta e com as traduções oficiais realizadas pela Jambo Editora no Brasil.
-##### Esta localização é uma produção independente deste autor e não possui qualquer vínculo com a Need Games, Rooster Games ou Jambo Editora. As regras do jogo fornecidas no compêndio do sistema seguem e são publicadas sob a LICENÇA ABERTA DE FABULA ULTIMA TTRPG v1.0. Segui as diretrizes da RoosterEma, garantindo que o livro básico e seus suplementos permaneçam parte integrante da sua experiência. Para utilizar este sistema em sua totalidade, você precisará do Livro de Regras Básico de Fabula Ultima.
+##### Esta localização é uma produção independente deste autor e não possui qualquer vínculo com a Need Games, Rooster Games ou Jambo Editora. As regras do jogo fornecidas no compêndio do sistema seguem e são publicadas sob a LICENÇA ABERTA DE FABULA ULTIMA TTRPG v1.0. É possível ler todo o conteúdo desta licença através da aquisição gratuita deste item no site da Jambo Editora (https://jamboeditora.com.br/produto/fabula-ultima-recompensas-digitais-2).
+##### Segui as diretrizes da RoosterEma e da editora-chefe da Jambo, Karen Soarele, garantindo que o livro básico e seus suplementos permaneçam parte integrante da sua experiência. Para utilizar este sistema em sua totalidade, você precisará do Livro de Regras Básico de Fabula Ultima.
 
 ##### O código-fonte deste repositório está sujeito aos termos da Licença MIT. Para mais detalhes, consulte o arquivo LICENÇA incluído neste repositório.
 
