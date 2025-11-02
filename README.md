@@ -46,19 +46,12 @@ Estes são os compêndios que traduzi até o momento. Lembrando que esse é um t
 
 - Módulos de Veículo
 
-### **Ferramentas do Mestre**
+**Ferramentas do Mestre**
 
 - Mestre de Jogo
-- Tabelas de Rolagem
-### **Diários**
+- Tabelas de Rolagem (Nem tudo está traduzido ainda).
 
-- Materiais de Apoio
-
-- O Diário de Habilidades Heroicas ainda está faltando. (Eu mesmo farei isso depois das habilidades...)
-## Compêndios (Ainda Não) Traduzidos
-### **Criação de Personagem**
-- Habilidades Heroicas
-### **Efeitos**
+**Efeitos**
 - Efeitos de Ator
 - Condições
 - Efeitos de Equipamento
@@ -66,44 +59,4 @@ Estes são os compêndios que traduzi até o momento. Lembrando que esse é um t
 > [!NOTE]
 > Atualmente, não pretendo traduzir os efeitos, pois a maioria é usada diretamente pelo sistema.
 
-> [!TIP]
-> Em uma versão anterior, o **Projeto FU** usava o módulo [PDF Pager](https://github.com/farling42/fvtt-pdf-pager) para abrir a página em um PDF carregado clicando em _Source_.
-
-Para isso, utilizei os seguintes códigos e adaptei as fontes:
-> - GRW = Regras básicas de Fabula Ultima
-> - LU = Aprimoramento de nível do livreto bônus
-> - AHF = Atlas: Alta Fantasia
-> - ATF = Atlas: Fantasia Tecnológica
-> - ANF = Atlas: Fantasia Natural
-
-# Projeto Fabula Ultima - Tradução do Compêndio Alemão
-## Prefácio
-Em um acesso de vício em trabalho, decidi traduzir os compêndios que acompanham o maravilhoso sistema [Projeto FU](https://github.com/League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima) usando o [Babele](https://gitlab.com/riccisi/foundryvtt-babele).
-
-No entanto, como não sou desenvolvedor – nem entendo nada de JavaScript – há vários obstáculos que não consegui superar até agora.
-
-Seguindo a licença usada pelos desenvolvedores do sistema, também estou executando este módulo sob a Licença MIT.
-
-## Instalação manual
-Para instalar o módulo no Foundry, alguns passos simples são necessários:
-1. Abra a página de configuração da sua instância do _FoundryVTT_
-2. Acesse a aba _Módulos Adicionais_
-3. Clique em _Instalar Módulo_
-4. Insira este URL no campo _URL do Manifesto_: `https://github.com/rustywrecks/pfu-babele-german/releases/latest/download/module.json`
-5. Clique em _Instalar_
-> [!AVISO]
-> Para que este módulo funcione, o módulo [Babele](https://gitlab.com/riccisi/foundryvtt-babele) deve estar instalado.
-
-## Compêndios traduzidos
-Estes são os compêndios que traduzi até o momento. Tentarei formular as limitações como subpontos.
-### **Bestiário**
-- NPCs
-
-- Apenas os nomes foram traduzidos, sem acesso aos efeitos dentro do personagem.
-### **Criação de Personagem**
-- Classes
-- Habilidades
-
-- Existem alguns campos que não foram transferidos.
-
-- Por exemplo, não consigo manipular o dano adicional das infusões, o que resulta na infusão de vampiro causando 5 de dano adicional e tendo que ser ajustada.
+Atualmente também será feita uma tradução das Tecnoesferas (Hoplo e Mnemo).
