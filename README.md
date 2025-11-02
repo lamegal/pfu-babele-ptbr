@@ -9,7 +9,7 @@ Para instalar o módulo no Foundry, são necessários alguns passos simples:
 1. Abra a página de configuração da sua instância do FoundryVTT.
 2. Mude para a aba Módulos Adicionais.
 3. Clique em Instalar Módulo.
-4. Insira este URL no campo URL do Manifesto: https://github.com/rustywrecks/pfu-babele-ptbr/releases/latest/download/module.json
+4. Insira este URL no campo URL do Manifesto: https://github.com/lamegal/pfu-babele-ptbr/releases/latest/download/module.json
 5. Clique em Instalar.
 
 ## **Aviso**
