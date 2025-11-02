@@ -57,6 +57,6 @@ Estes são os compêndios que traduzi até o momento. Lembrando que esse é um t
 - Efeitos de Equipamento
 - Qualidades
 > [!NOTE]
-> Atualmente, não pretendo traduzir os efeitos, pois a maioria é usada diretamente pelo sistema.
+> Não pretendo traduzir os efeitos (Apenas seus títulos), pois a maioria é usada diretamente pelo sistema.
 
 Atualmente também será feita uma tradução das Tecnoesferas (Hoplo e Mnemo).
